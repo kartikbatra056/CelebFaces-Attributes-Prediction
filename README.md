@@ -5,6 +5,4 @@ Dataset can be obtained from [kaggle CelebFaces-Attributes](https://www.kaggle.c
 
 # Dataset Description
 Dataset consist of 202,599 number of face images of various celebrities with 40 binary attribute annotations per image.
-
-# Future work
-Deploy model using flask 
+ 
