@@ -3,5 +3,5 @@ gunicorn==20.0.4
 Jinja2==2.11.2
 numpy==1.19.2
 Pillow==8.0.1
-torch==1.6.0
-torchvision==0.7.0
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/torchvision-0.7.0-cp37-cp37m-macosx_10_9_x86_64.whl
