@@ -9,11 +9,11 @@ Dataset consist of 202,599 number of face images of various celebrities with 40 
 # To run locally:
 
 * Install Python3
-* Clone repository git clone https://github.com/kartikbatra056/CelebFaces-Attributes-Prediction.git 
-* Enter cloned directory cd CelebFaces-Attributes-Prediction
-* Install dependencies pip3 install -r requirements.txt
-* Deploy the app python3 app.py
-* Open a web browser and go to http://localhost:5000
+* Clone repository git clone ```https://github.com/kartikbatra056/CelebFaces-Attributes-Prediction.git``` 
+* Enter cloned directory ```cd CelebFaces-Attributes-Prediction```
+* Install dependencies ```pip3 install -r requirements.txt```
+* Deploy the app ```python3 app.py```
+* Open a web browser and go to ```http://localhost:5000```
 
 # Live Demo 
 
