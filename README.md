@@ -6,4 +6,15 @@ Dataset can be obtained from [kaggle CelebFaces-Attributes](https://www.kaggle.c
 # Dataset Description
 Dataset consist of 202,599 number of face images of various celebrities with 40 binary attribute annotations per image.
  
+# To run locally:
+
+* Install Python3
+* Clone repository git clone https://github.com/kartikbatra056/CelebFaces-Attributes-Prediction.git 
+* Enter cloned directory cd CelebFaces-Attributes-Prediction
+* Install dependencies pip3 install -r requirements.txt
+* Deploy the app python3 app.py
+* Open a web browser and go to http://localhost:8080
+
+# Live Demo 
+
 * live demo :https://attributepredictionapp.herokuapp.com/
