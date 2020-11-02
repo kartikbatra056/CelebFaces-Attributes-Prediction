@@ -17,4 +17,4 @@ Dataset consist of 202,599 number of face images of various celebrities with 40 
 
 # Live Demo 
 
-* live demo :https://attributepredictionapp.herokuapp.com/
+* live demo : [AttributePredictionApp](https://attributepredictionapp.herokuapp.com/)
