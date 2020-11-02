@@ -13,7 +13,7 @@ Dataset consist of 202,599 number of face images of various celebrities with 40 
 * Enter cloned directory cd CelebFaces-Attributes-Prediction
 * Install dependencies pip3 install -r requirements.txt
 * Deploy the app python3 app.py
-* Open a web browser and go to http://localhost:8080
+* Open a web browser and go to http://localhost:5000
 
 # Live Demo 
 
