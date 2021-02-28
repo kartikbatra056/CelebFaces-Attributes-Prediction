@@ -15,6 +15,3 @@ Dataset consist of 202,599 number of face images of various celebrities with 40 
 * Deploy the app ```python3 app.py```
 * Open a web browser and go to ```http://localhost:5000```
 
-# Live Demo 
-
-* live demo : [AttributePredictionApp](https://attributepredictionapp.herokuapp.com/)
